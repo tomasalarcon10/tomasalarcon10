@@ -66,6 +66,3 @@ Always learning. Always building.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tomasalarconm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomas-alarconm)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasalarcon609@gmail.com)
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasalarcon10&show_icons=true&theme=default)
