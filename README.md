@@ -101,6 +101,7 @@ My goal is to become a **business consultant who builds with data and AI**, some
 
 | Project | Description | Stack |
 |---|---|---|
+| [ml-from-scratch](https://github.com/tomasalarcon10/ml-from-scratch) | Machine learning algorithms implemented by hand in NumPy and benchmarked against scikit-learn. 01: house price prediction, 5.3% median error | Python, NumPy, scikit-learn |
 | [mongodb-nlp-search-engine](https://github.com/tomasalarcon10/mongodb-nlp-search-engine) | Product search comparing TF-IDF, BM25 and semantic sentence embeddings | Node.js, MongoDB, TensorFlow.js |
 | [parkinson-detection-ml](https://github.com/tomasalarcon10/parkinson-detection-ml) | Disease detection from voice features; four classifiers compared with SMOTE and ROC analysis | Python, scikit-learn, XGBoost |
 
@@ -185,7 +186,7 @@ Backtest overfitting detector (Deflated Sharpe Ratio), risk-neutral density with
 <details>
 <summary><b>Machine learning fundamentals</b> (10 projects)</summary>
 
-House prices, iris classification, MNIST, movie review sentiment, customer churn, and from-scratch implementations of decision trees, PCA, Markov chains, neural networks and linear regression.
+House prices, iris classification, MNIST, movie review sentiment, customer churn, and from-scratch implementations of decision trees, PCA, Markov chains, neural networks and linear regression. **In progress:** [ml-from-scratch](https://github.com/tomasalarcon10/ml-from-scratch) (01 house prices done)
 </details>
 
 <details>
