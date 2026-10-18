@@ -92,6 +92,7 @@ My goal is to become a **business consultant who builds with data and AI**, some
 
 | Project | Description | Stack |
 |---|---|---|
+| [world-gdp-polar-atlas](https://github.com/tomasalarcon10/world-gdp-polar-atlas) | Two thousand years of GDP data in one polar chart, 3D regional growth surface, crisis bands and an animated ranking race | Python, Plotly, Matplotlib |
 | [customer-lifetime-value-analysis](https://github.com/tomasalarcon10/customer-lifetime-value-analysis) | SQL analysis, K-Means segmentation and offer-response model for 9,134 insurance customers | SQL, Python, scikit-learn |
 | [hr-attrition-analysis](https://github.com/tomasalarcon10/hr-attrition-analysis) | Drivers of employee turnover: overtime triples the attrition rate | SQL, Python |
 | [olist-customer-geo-analytics](https://github.com/tomasalarcon10/olist-customer-geo-analytics) | Market concentration of 99,441 e-commerce customers across Brazil | SQL, Python |
@@ -190,7 +191,7 @@ House prices, iris classification, MNIST, movie review sentiment, customer churn
 <details>
 <summary><b>Economics and data visualization</b> (1 project)</summary>
 
-World GDP atlas with a polar observation-window chart.
+World GDP atlas with a polar observation-window chart. **Done:** [world-gdp-polar-atlas](https://github.com/tomasalarcon10/world-gdp-polar-atlas)
 </details>
 
 ---
