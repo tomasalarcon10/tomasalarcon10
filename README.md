@@ -1,68 +1,129 @@
-# Hi there, I'm Tomás Alarcón 👋
+<h1 align="center">Tomás Alarcón</h1>
 
-Systems and Computer Engineering student with a strong interest in the intersection of finance, data analytics, artificial intelligence, and enterprise technology. My goal is to design technology-driven solutions that help organizations make better business decisions through data, software architecture, business intelligence, and financial analysis.
+<p align="center">
+  <b>Systems and Computing Engineering student at Universidad de los Andes</b><br>
+  Data, AI and Finance applied to business decisions
+</p>
 
-## 💻 Tech Stack
+<p align="center">
+  <a href="https://linkedin.com/in/tomas-alarconm"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tomasalarcon609@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://instagram.com/tomasalarconm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+---
+
+## About me
+
+I am a Systems and Computing Engineering student at Universidad de los Andes (Bogotá, Colombia), with an academic option in Business Administration. I work at the intersection of **technology, data and finance**: I build analytical models, data pipelines and software that help organizations understand their numbers and make better decisions.
+
+My goal is to become a **business consultant who builds with data and AI**, someone who can move from a strategic question to a working model, a clear recommendation and the system that supports it.
+
+- Vice President of Artificial Intelligence at **CIMIENTO**, the construction student club at Universidad de los Andes.
+- Focused on financial analysis, business intelligence, machine learning and enterprise software architecture.
+- Currently building a portfolio of projects in valuation, quantitative finance and AI for finance.
+
+---
+
+## Areas of focus
+
+| Finance and Investment | Data and Business Intelligence | Artificial Intelligence | Software and Architecture |
+|---|---|---|---|
+| Valuation, portfolio theory, risk (VaR, CVaR), derivatives pricing | SQL analytics, dashboards, customer and people analytics | Classification, segmentation, NLP and semantic search | Object-oriented design, relational and NoSQL data models, APIs |
+
+---
+
+## Tech stack
+
+**Languages**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data, analytics and machine learning**
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Databases**
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+
+**Frameworks and cloud**
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Tools and design**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-## 📌 Featured Projects
+---
+
+## Featured projects
+
+### Finance and quantitative analysis
 
 | Project | Description | Stack |
 |---|---|---|
-| [Python](https://github.com/tomasalarcon10/Python) | ML (Parkinson's, heart disease), algorithmic trading backtesting | Python, Scikit-learn |
-| [SQL](https://github.com/tomasalarcon10/SQL) | Business analytics: CLV, global debt, HR attrition, retail | SQL |
-| [Power-BI](https://github.com/tomasalarcon10/Power-BI) | 10 dashboards: finance, churn, supply chain, global energy | Power BI, DAX |
-| [MongoDB](https://github.com/tomasalarcon10/MongoDB) | NoSQL data modeling: e-commerce, CMS, social media | MongoDB, JavaScript |
-| [Visual-Basic](https://github.com/tomasalarcon10/Visual-Basic) | Financial and business automation with VBA | Excel, VBA |
-| [Excel](https://github.com/tomasalarcon10/Excel) | Churn, healthcare, inventory, and sales forecasting analysis | Excel |
-| [Java](https://github.com/tomasalarcon10/Java) | OOP systems: banking, CRM, billing, real estate | Java |
+| [quant-finance-toolkit](https://github.com/tomasalarcon10/quant-finance-toolkit) | Black-Scholes pricing and Greeks, geometric Brownian motion, analytical Markowitz frontier, Monte Carlo investment simulation, VaR and CVaR, implemented from the formulas | Python, NumPy, SciPy |
+| [santander-transaction-prediction](https://github.com/tomasalarcon10/santander-transaction-prediction) | Banking-style prediction of customer transactions with 200 features and an imbalanced target; five models compared | Python, XGBoost, LightGBM |
 
-## 🚀 Currently building expertise in:
-- Financial Analysis & Investment
-- Data Analytics & Business Intelligence
-- Artificial Intelligence for Business
-- Enterprise Software Architecture
-- Business Strategy & Digital Transformation
+### Data analytics and business intelligence
 
-## 🎯 Current Focus
-- Developing data-driven business solutions
-- Building financial analytics and BI projects
-- Applying AI to business and decision-making
-- Designing scalable enterprise systems
-- Expanding my knowledge in investment and capital markets
+| Project | Description | Stack |
+|---|---|---|
+| [customer-lifetime-value-analysis](https://github.com/tomasalarcon10/customer-lifetime-value-analysis) | SQL analysis, K-Means segmentation and offer-response model for 9,134 insurance customers | SQL, Python, scikit-learn |
+| [hr-attrition-analysis](https://github.com/tomasalarcon10/hr-attrition-analysis) | Drivers of employee turnover: overtime triples the attrition rate | SQL, Python |
+| [olist-customer-geo-analytics](https://github.com/tomasalarcon10/olist-customer-geo-analytics) | Market concentration of 99,441 e-commerce customers across Brazil | SQL, Python |
 
-## 🌱 Interests
-FinTech · Business Intelligence · Artificial Intelligence · Enterprise Architecture · Investment & Capital Markets · Data Analytics · Digital Transformation
+### Machine learning and AI
 
-## 💭 Philosophy
-Build solutions that create value by connecting business, finance, data and technology.
-Always learning. Always building.
+| Project | Description | Stack |
+|---|---|---|
+| [mongodb-nlp-search-engine](https://github.com/tomasalarcon10/mongodb-nlp-search-engine) | Product search comparing TF-IDF, BM25 and semantic sentence embeddings | Node.js, MongoDB, TensorFlow.js |
+| [parkinson-detection-ml](https://github.com/tomasalarcon10/parkinson-detection-ml) | Disease detection from voice features; four classifiers compared with SMOTE and ROC analysis | Python, scikit-learn, XGBoost |
 
-## 🌐 Socials
+### Software engineering and databases
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/tomasalarconm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tomas-alarconm)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tomasalarcon609@gmail.com)
+| Project | Description | Stack |
+|---|---|---|
+| [boletamaster-ticketing-system](https://github.com/tomasalarcon10/boletamaster-ticketing-system) | Event ticketing and resale platform with three roles, marketplace, financial reports and QR tickets | Java, Swing |
+| [dann-alpes-database-system](https://github.com/tomasalarcon10/dann-alpes-database-system) | Hybrid hotel system: Oracle for master data, MongoDB for reviews, with workload-driven modeling | Oracle, APEX, MongoDB |
+| [delivery-routes-graph-algorithms](https://github.com/tomasalarcon10/delivery-routes-graph-algorithms) | Delivery network analysis with DFS, BFS, Dijkstra and Prim on hand-built data structures | Python |
+| [java-casino-simulator](https://github.com/tomasalarcon10/java-casino-simulator) | Blackjack, roulette and slots with accounts, house bankroll and persistent jackpot | Java |
+
+---
+
+## Currently building
+
+- Full valuation of a Colombian listed company: three-statement model, DCF, reverse DCF and comparables.
+- Leveraged buyout model with returns sensitivity.
+- Implied volatility surface and fat-tail risk analysis.
+- AI tools for finance: investment memo generator and financial statement analyzer.
+- Credit risk scoring with explainable machine learning.
+
+---
+
+## Principles
+
+Start from the business question. Use data to answer it honestly. Build the tool that makes the answer useful.
