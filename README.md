@@ -114,13 +114,84 @@ My goal is to become a **business consultant who builds with data and AI**, some
 
 ---
 
-## Currently building
+## Roadmap
 
-- Full valuation of a Colombian listed company: three-statement model, DCF, reverse DCF and comparables.
-- Leveraged buyout model with returns sensitivity.
-- Implied volatility surface and fat-tail risk analysis.
-- AI tools for finance: investment memo generator and financial statement analyzer.
-- Credit risk scoring with explainable machine learning.
+A structured plan of more than 70 projects across finance, data and AI. Every project follows the same contract: a real business problem, real data where possible, a clear deliverable, interactive visuals and a full README. Projects are published here as they are completed.
+
+### Flagship projects
+
+| # | Project | Area |
+|---|---|---|
+| 1 | Full valuation of a Colombian listed company: three statements, DCF, reverse DCF and comparables | Valuation |
+| 2 | Leveraged buyout model with returns sensitivity | Private equity |
+| 3 | Systematic strategy backtest with walk-forward validation and no overfitting | Quant |
+| 4 | Risk lab: fat tails with the Hill estimator, macro stress tests and crisis correlations with copulas | Risk |
+| 5 | 3D implied volatility surface with SVI fit | Derivatives |
+| 6 | AI investment memo generator and financial statement analyzer | AI for finance |
+| 7 | Credit underwriting with AI and explainable machine learning (SHAP) | Credit risk |
+| 8 | Project finance model for a real estate development | Construction finance |
+
+### Full pipeline
+
+<details>
+<summary><b>Valuation and investment banking</b> (11 projects)</summary>
+
+DCF with scenarios, reverse DCF, three-statement model, comparable companies, precedent transactions database, M&A accretion/dilution model, IPO valuation dashboard, fairness opinion, equity research initiation with a variant view, industry tear sheets, pitch book generator.
+</details>
+
+<details>
+<summary><b>Private equity</b> (8 projects)</summary>
+
+LBO with sensitivity, deal screener and add-on finder, debt capacity calculator, debt financing optimizer, exit multiple analyzer, value creation tracker, portfolio company dashboard, PE fund performance (IRR, TVPI, DPI, PME).
+</details>
+
+<details>
+<summary><b>Corporate finance and consulting</b> (7 projects)</summary>
+
+Unit economics dashboard, revenue growth decomposer, working capital analysis and forecast, financial ratio benchmarking, interest rate sensitivity, currency exposure calculator, investment decision consulting case.
+</details>
+
+<details>
+<summary><b>Markets, quant and risk</b> (10 projects)</summary>
+
+Backtest without overfitting, sector rotation backtester, portfolio optimizer, options payoff visualizer, bond calculator (YTM, duration, convexity), Hill estimator for fat tails, Hawkes process for order flow, Monte Carlo Greeks with automatic differentiation, American put with Crank-Nicolson and projected SOR, stock split event study.
+</details>
+
+<details>
+<summary><b>AI applied to finance</b> (6 projects)</summary>
+
+Investment memo generator, financial statement analyzer, portfolio risk analyzer, AI credit underwriter, AI M&A screener, earnings call sentiment analyzer.
+</details>
+
+<details>
+<summary><b>Consumer finance</b> (2 projects)</summary>
+
+Credit card rewards optimizer, mortgage simulator.
+</details>
+
+<details>
+<summary><b>Colombia and applied finance</b> (10 projects)</summary>
+
+Colombian company valuation, TES yield curve with Nelson-Siegel, 3D implied volatility surface, real estate project finance, market regime detection with HMM, Fama-French attribution, macro stress testing, crisis correlations with copulas, explainable credit scoring, buy vs rent in Bogota with Monte Carlo.
+</details>
+
+<details>
+<summary><b>Quant and advanced machine learning</b> (8 projects)</summary>
+
+Backtest overfitting detector (Deflated Sharpe Ratio), risk-neutral density with Breeden-Litzenberger, prediction market mispricing engine, reinforcement learning for derivatives hedging, neural volatility surface forecaster, event-driven backtester, stock return predictor, CVaR portfolio optimization.
+</details>
+
+<details>
+<summary><b>Machine learning fundamentals</b> (10 projects)</summary>
+
+House prices, iris classification, MNIST, movie review sentiment, customer churn, and from-scratch implementations of decision trees, PCA, Markov chains, neural networks and linear regression.
+</details>
+
+<details>
+<summary><b>Economics and data visualization</b> (1 project)</summary>
+
+World GDP atlas with a polar observation-window chart.
+</details>
 
 ---
 
