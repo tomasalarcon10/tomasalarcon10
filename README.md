@@ -1,4 +1,4 @@
-<h1 align="center">Tomás Alarcón</h1>
+<h1 align="center">Tomás Alarcón Martínez Troncoso</h1>
 
 <p align="center">
   <b>Systems and Computing Engineering student at Universidad de los Andes</b><br>
