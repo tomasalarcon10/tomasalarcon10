@@ -87,6 +87,7 @@ My goal is to become a **business consultant who builds with data and AI**, some
 |---|---|---|
 | [quant-finance-toolkit](https://github.com/tomasalarcon10/quant-finance-toolkit) | Black-Scholes pricing and Greeks, geometric Brownian motion, analytical Markowitz frontier, Monte Carlo investment simulation, VaR and CVaR, implemented from the formulas | Python, NumPy, SciPy |
 | [backtest-overfitting-detector](https://github.com/tomasalarcon10/backtest-overfitting-detector) | Is the best of 1,000 trading rules skill or luck? Deflated Sharpe Ratio and Probability of Backtest Overfitting on 69 years of the S&P 500: the in-sample winner (Sharpe 0.50) falls to -0.65 after 2000 | Python, NumPy, SciPy, Plotly |
+| [implied-risk-neutral-density](https://github.com/tomasalarcon10/implied-risk-neutral-density) | The probabilities the options market assigns to SPY's future price, extracted from 12,610 real Cboe quotes with Breeden-Litzenberger and an SVI smile: a 20% fall is priced about 57 times more likely than Black-Scholes assumes | Python, NumPy, SciPy, Plotly |
 | [santander-transaction-prediction](https://github.com/tomasalarcon10/santander-transaction-prediction) | Banking-style prediction of customer transactions with 200 features and an imbalanced target; five models compared | Python, XGBoost, LightGBM |
 
 ### Data analytics and business intelligence
@@ -181,7 +182,7 @@ Colombian company valuation, TES yield curve with Nelson-Siegel, 3D implied vola
 <details>
 <summary><b>Quant and advanced machine learning</b> (8 projects)</summary>
 
-Backtest overfitting detector (Deflated Sharpe Ratio), risk-neutral density with Breeden-Litzenberger, prediction market mispricing engine, reinforcement learning for derivatives hedging, neural volatility surface forecaster, event-driven backtester, stock return predictor, CVaR portfolio optimization. **Done:** [backtest-overfitting-detector](https://github.com/tomasalarcon10/backtest-overfitting-detector)
+Backtest overfitting detector (Deflated Sharpe Ratio), risk-neutral density with Breeden-Litzenberger, prediction market mispricing engine, reinforcement learning for derivatives hedging, neural volatility surface forecaster, event-driven backtester, stock return predictor, CVaR portfolio optimization. **Done:** [backtest-overfitting-detector](https://github.com/tomasalarcon10/backtest-overfitting-detector), [implied-risk-neutral-density](https://github.com/tomasalarcon10/implied-risk-neutral-density)
 </details>
 
 <details>
